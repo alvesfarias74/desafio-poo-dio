@@ -145,8 +145,8 @@ Se possível:<br>
 🐛 Encontrar e relatar issues<br>
 </p>
 
-
-
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Desenvolvido por [Alves](https://github.com/alvesfarias74/ "Alves")
+com base no curso e conteúdo disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la")
+para o Bootcamp CI&T - Backend com Java & AWS da DIO.
